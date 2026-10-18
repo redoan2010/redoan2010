@@ -1,147 +1,218 @@
-<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo1MDc2Yzk4MS1kOGVlLTRmNTItOGE2MC00NGMwNzQzY2M5YzEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaNtcORfrhomXvp7ZreVLO3AAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDozN2E5OTJhNC1lYzZmLTQ4ZmEtYmUzNy03Zjc2ZGRiOTlmMjNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNogT8JJ2ru1Sh0Z1JAaeJEVwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggoW8MIHmkZnXy6+t1/JRLWd4WxZY8Z1ofZ9RwhGHii3+kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaNGtW0wczoey8YeF/B6JHIoAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCmEJh2xLi03uZRMjIGVVVqeQQbp0tzYIg7OicdvAKbGmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjUwNzZjOTgxLWQ4ZWUtNGY1Mi04YTYwLTQ0YzA3NDNjYzljMS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjQzMTUwYzE0LTE4MjItNDFlMy04MzYxLTMxMjU4ZmNlNTI2MnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCChbwwgeaRmdfLr63X8lEtZ3hbFljxnWh9n1HCEYeKLf6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggwpRDHxwuXXfSS8R3pzcfsMGSFKwo+ulhNDyInYWLZLOiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggRdnr+riBWUukNskiss+dEQBPYzByLuV/lbFa7BN44gt0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQDEWYqjdZoVdw/5wnaeM8DMGpv9jAOwHQL2CXOQ85805ulMR8wQJR7KWk67QuU8iQdERSKTNtpjQXRG3gTPQymI=</c2pa:manifest></metadata>
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo0YTE1NjFlNS1jZjk5LTRjNWEtOGZiYy00M2JkMzk1ZDA2NTEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaPXEzqBg8ifP/yRVjxOIwpkAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo0OTE4M2IyMi01OGI1LTQ2MjQtODIzMi1mY2Q4M2NlNTc3MDZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoGcL8k9Zn2Cs0qEo9a/yv1QAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggzsQHPR6kIXEglhiR30k1lTF/I90xLV0CEauchoRbNaGkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaLzuqGFvyckhglUtlLEmChAAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCV6OL/fPw4H2AnGKE89DPy6BN+EZvD6cLI1RX4hCmOT2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjRhMTU2MWU1LWNmOTktNGM1YS04ZmJjLTQzYmQzOTVkMDY1MS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjI5MzdjZWI4LTg1ZWQtNGRkZi05M2I0LTYwNTJmYzJmMTA1ZHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDOxAc9HqQhcSCWGJHfSTWVMX8j3TEtXQIRq5yGhFs1oaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggC/UbEm1gL29fzBm9dqY34bP9zHD61KHts0Pw9oY7AX+iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggNkACy548TWCXYFhE95zyLhNLyysVx7o3XcKzt8J5SPd0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQLuRmkXfeyHI+6Jux8drhevb/dGDMHO/RuoMsLNdpGfSMbXfpjh+xlHYAUDC+PyZGhARVGihXlsONq23xanMRSU=</c2pa:manifest></metadata>
   <defs>
-    <radialGradient id="bg" cx="78%" cy="50%" r="80%">
-      <stop offset="0" stop-color="#101a33"/>
-      <stop offset="0.6" stop-color="#070b16"/>
-      <stop offset="1" stop-color="#04060c"/>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#14030a"/>
+      <stop offset="0.35" stop-color="#4d0a14"/>
+      <stop offset="0.7" stop-color="#b3202a"/>
+      <stop offset="1" stop-color="#ff7a52"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#fff0d6"/>
+      <stop offset="0.55" stop-color="#ffb27a"/>
+      <stop offset="1" stop-color="#ff5a45"/>
     </radialGradient>
-    <linearGradient id="ttl" x1="0" x2="1">
-      <stop offset="0" stop-color="#ffffff"/>
-      <stop offset="0.6" stop-color="#9ff8ff"/>
-      <stop offset="1" stop-color="#9a8cff"/>
-    </linearGradient>
-    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#00f0ff" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#00f0ff" stop-opacity="0.35"/>
-      <stop offset="1" stop-color="#00f0ff" stop-opacity="0"/>
-    </linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#00f0ff" stroke-opacity="0.07" stroke-width="1"/>
-    </pattern>
-    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="4" result="b"/>
+    <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ff8a5c" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#ff8a5c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="vig" cx="0.5" cy="0.5" r="0.75">
+      <stop offset="0.6" stop-color="#000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0.55"/>
+    </radialGradient>
+    <filter id="ink" x="-10%" y="-20%" width="120%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="2.2"/></filter>
     <clipPath id="frame"><rect width="1200" height="420" rx="14"/></clipPath>
 
+    <g id="leaf">
+      <path d="M0 -11 C7 -7 9 3 0 12 C-9 3 -7 -7 0 -11Z"/>
+      <path d="M0 -8V11" stroke="#3a0509" stroke-opacity="0.45" stroke-width="1" fill="none"/>
+    </g>
+    <g id="tuft">
+      <path d="M0 0 C-2 -14 -6 -22 -12 -28 M0 0 C1 -16 4 -26 9 -34 M0 0 C4 -10 10 -16 18 -20" stroke="#1d040a" stroke-width="3" stroke-linecap="round" fill="none"/>
+    </g>
+
     <style>
-      .mono { font-family: 'Courier New', Consolas, monospace; }
-      .sans { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
-      .spin   { transform-box: fill-box; transform-origin: center; animation: spin 40s linear infinite; }
-      .spinr  { transform-box: fill-box; transform-origin: center; animation: spin 26s linear infinite reverse; }
-      .spinf  { transform-box: fill-box; transform-origin: center; animation: spin 14s linear infinite; }
-      .prop   { transform-box: fill-box; transform-origin: center; animation: spin 0.35s linear infinite; }
-      .propr  { transform-box: fill-box; transform-origin: center; animation: spin 0.35s linear infinite reverse; }
-      @keyframes spin { to { transform: rotate(360deg); } }
-      .float { animation: float 4s ease-in-out infinite; }
-      @keyframes float { 0%,100% { transform: translateY(-8px); } 50% { transform: translateY(8px); } }
-      .gridmove { animation: gm 6s linear infinite; }
-      @keyframes gm { to { transform: translateY(40px); } }
-      .scanline { animation: sc 5s linear infinite; }
-      @keyframes sc { from { transform: translateY(-120px); } to { transform: translateY(440px); } }
-      .blink { animation: bl 1.2s steps(2, start) infinite; }
-      @keyframes bl { to { opacity: 0.15; } }
-      .pulse { animation: pu 3s ease-in-out infinite; }
-      @keyframes pu { 0%,100% { opacity: 0.55; } 50% { opacity: 1; } }
-      .sub { opacity: 0; animation: sub 12s infinite backwards; }
-      .s2 { animation-delay: 3s; } .s3 { animation-delay: 6s; } .s4 { animation-delay: 9s; }
-      @keyframes sub {
-        0%   { opacity: 0; transform: translateY(10px); }
-        3%   { opacity: 1; transform: translateY(0); }
-        22%  { opacity: 1; transform: translateY(0); }
-        25%  { opacity: 0; transform: translateY(-10px); }
-        100% { opacity: 0; }
+      .fly { animation: fly var(--d) linear infinite; animation-delay: var(--dl); }
+      @keyframes fly {
+        0%   { transform: translate(var(--x0), var(--y0)); opacity: 0; }
+        6%   { opacity: 1; }
+        92%  { opacity: 1; }
+        100% { transform: translate(1320px, var(--y1)); opacity: 0; }
       }
-      .glitchA { animation: gA 6s infinite; }
-      .glitchB { animation: gB 6s infinite; }
-      @keyframes gA { 0%,90%,100% { transform: translate(0,0); opacity: 0; } 92% { transform: translate(-5px,1px); opacity: .7; } 95% { transform: translate(4px,-1px); opacity: .6; } }
-      @keyframes gB { 0%,90%,100% { transform: translate(0,0); opacity: 0; } 93% { transform: translate(5px,-1px); opacity: .7; } 96% { transform: translate(-4px,1px); opacity: .6; } }
-      .bar { stroke-dasharray: 300; stroke-dashoffset: 300; animation: bar 4s ease-in-out infinite; }
-      .bar2 { animation-delay: .6s; } .bar3 { animation-delay: 1.2s; }
-      @keyframes bar { 0% { stroke-dashoffset: 300; } 60%,100% { stroke-dashoffset: 40; } }
-      .dash { stroke-dasharray: 14 10; animation: dm 1.5s linear infinite; }
-      @keyframes dm { to { stroke-dashoffset: -24; } }
+      .tum { animation: tum var(--t) ease-in-out infinite; }
+      @keyframes tum {
+        0%   { transform: translateY(0) rotate(0deg); }
+        25%  { transform: translateY(-22px) rotate(120deg); }
+        50%  { transform: translateY(12px) rotate(210deg); }
+        75%  { transform: translateY(-14px) rotate(300deg); }
+        100% { transform: translateY(0) rotate(360deg); }
+      }
+      .wind { opacity: 0; animation: wind var(--d) linear infinite; animation-delay: var(--dl); }
+      @keyframes wind {
+        0%   { transform: translate(-260px, 0); opacity: 0; }
+        15%  { opacity: 0.35; }
+        85%  { opacity: 0.35; }
+        100% { transform: translate(1320px, var(--wy)); opacity: 0; }
+      }
+      .tree { transform-origin: 120px 420px; animation: sway 6s ease-in-out infinite alternate; }
+      @keyframes sway { from { transform: rotate(-0.9deg); } to { transform: rotate(1.1deg); } }
+      .grass { transform-box: fill-box; transform-origin: 50% 100%; animation: gs 2.4s ease-in-out infinite alternate; }
+      @keyframes gs { from { transform: skewX(-9deg); } to { transform: skewX(9deg); } }
+      .rays { animation: rot 120s linear infinite; }
+      @keyframes rot { to { transform: rotate(360deg); } }
+      .cloud { animation: cl var(--d) linear infinite; animation-delay: var(--dl); }
+      @keyframes cl { from { transform: translateX(-300px); } to { transform: translateX(1500px); } }
+      .sunpulse { animation: sp 5s ease-in-out infinite alternate; }
+      @keyframes sp { from { opacity: 0.7; } to { opacity: 1; } }
+      .ember { animation: em var(--d) linear infinite; animation-delay: var(--dl); opacity: 0; }
+      @keyframes em {
+        0%   { transform: translate(0, 0); opacity: 0; }
+        15%  { opacity: 0.9; }
+        100% { transform: translate(120px, -260px); opacity: 0; }
+      }
+      .w { fill: none; stroke-linecap: round; stroke-linejoin: round;
+           stroke-dasharray: 1 1; stroke-dashoffset: 1; opacity: 0;
+           animation: write 14s ease-in-out infinite backwards; animation-delay: var(--dl); }
+      @keyframes write {
+        0%   { stroke-dashoffset: 1; opacity: 0; }
+        1%   { stroke-dashoffset: 1; opacity: 1; }
+        10%  { stroke-dashoffset: 0; opacity: 1; }
+        90%  { stroke-dashoffset: 0; opacity: 1; }
+        96%  { stroke-dashoffset: 0; opacity: 0; }
+        100% { stroke-dashoffset: 1; opacity: 0; }
+      }
     </style>
   </defs>
 
   <g clip-path="url(#frame)">
-    <rect width="1200" height="420" fill="url(#bg)"/>
-    <g class="gridmove"><rect x="0" y="-40" width="1200" height="500" fill="url(#grid)"/></g>
-
-    <!-- scanning beam -->
-    <rect class="scanline" x="0" y="0" width="1200" height="120" fill="url(#scan)"/>
-
-    <!-- HUD rings + drone -->
-    <g transform="translate(930 210)">
-      <circle r="190" fill="none" stroke="#00f0ff" stroke-opacity="0.15"/>
-      <circle class="spin" r="170" fill="none" stroke="#00f0ff" stroke-width="2" stroke-dasharray="4 14" stroke-opacity="0.7"/>
-      <circle class="spinr" r="145" fill="none" stroke="#9a8cff" stroke-width="3" stroke-dasharray="90 40 20 40" stroke-opacity="0.8"/>
-      <circle class="spinf" r="118" fill="none" stroke="#ffb020" stroke-width="2" stroke-dasharray="30 200" stroke-opacity="0.9"/>
-      <circle r="95" fill="none" stroke="#00f0ff" stroke-opacity="0.25" stroke-dasharray="2 6"/>
-      <path d="M-200 0H-60M60 0H200M0 -200V-60M0 60V200" stroke="#00f0ff" stroke-opacity="0.18"/>
-
-      <g class="float" filter="url(#glow)">
-        <!-- arms -->
-        <path d="M-55 -55L55 55M55 -55L-55 55" stroke="#9ff8ff" stroke-width="5" stroke-linecap="round"/>
-        <!-- motors + props -->
-        <g transform="translate(-55 -55)"><circle r="9" fill="#0a1224" stroke="#00f0ff" stroke-width="2"/><g class="prop"><ellipse rx="40" ry="5" fill="#00f0ff" fill-opacity="0.55"/><ellipse rx="5" ry="40" fill="#00f0ff" fill-opacity="0.55"/></g></g>
-        <g transform="translate(55 -55)"><circle r="9" fill="#0a1224" stroke="#00f0ff" stroke-width="2"/><g class="propr"><ellipse rx="40" ry="5" fill="#9a8cff" fill-opacity="0.6"/><ellipse rx="5" ry="40" fill="#9a8cff" fill-opacity="0.6"/></g></g>
-        <g transform="translate(-55 55)"><circle r="9" fill="#0a1224" stroke="#00f0ff" stroke-width="2"/><g class="propr"><ellipse rx="40" ry="5" fill="#9a8cff" fill-opacity="0.6"/><ellipse rx="5" ry="40" fill="#9a8cff" fill-opacity="0.6"/></g></g>
-        <g transform="translate(55 55)"><circle r="9" fill="#0a1224" stroke="#00f0ff" stroke-width="2"/><g class="prop"><ellipse rx="40" ry="5" fill="#00f0ff" fill-opacity="0.55"/><ellipse rx="5" ry="40" fill="#00f0ff" fill-opacity="0.55"/></g></g>
-        <!-- body -->
-        <rect x="-22" y="-30" width="44" height="60" rx="10" fill="#0b1630" stroke="#00f0ff" stroke-width="2"/>
-        <rect x="-12" y="-20" width="24" height="18" rx="3" fill="#00f0ff" fill-opacity="0.25" stroke="#00f0ff" stroke-opacity="0.8"/>
-        <circle class="blink" cx="0" cy="14" r="4" fill="#ffb020"/>
-        <path d="M0 -30V-42" stroke="#ffb020" stroke-width="3" stroke-linecap="round"/>
+    <rect width="1200" height="420" fill="url(#sky)"/>
+    <g transform="translate(850 275)">
+      <g class="rays" fill="#ffb08a" opacity="0.07">
+        <path d="M0 0L-40 -700L40 -700Z"/>
+        <path d="M0 0L-40 -700L40 -700Z" transform="rotate(45)"/>
+        <path d="M0 0L-40 -700L40 -700Z" transform="rotate(90)"/>
+        <path d="M0 0L-40 -700L40 -700Z" transform="rotate(135)"/>
+        <path d="M0 0L-40 -700L40 -700Z" transform="rotate(180)"/>
+        <path d="M0 0L-40 -700L40 -700Z" transform="rotate(225)"/>
+        <path d="M0 0L-40 -700L40 -700Z" transform="rotate(270)"/>
+        <path d="M0 0L-40 -700L40 -700Z" transform="rotate(315)"/>
       </g>
+      <circle class="sunpulse" r="230" fill="url(#halo)"/>
+      <circle r="100" fill="url(#sun)"/>
+    </g>
 
-      <!-- target marks -->
-      <g stroke="#00f0ff" stroke-width="2" fill="none" class="pulse">
-        <path d="M-120 -100v-18h18M120 -100v-18h-18M-120 100v18h18M120 100v18h-18"/>
+    <g fill="#ff9a7a" opacity="0.22">
+      <ellipse class="cloud" style="--d:70s;--dl:-20s" cx="0" cy="70" rx="170" ry="9"/>
+      <ellipse class="cloud" style="--d:90s;--dl:-60s" cx="0" cy="120" rx="230" ry="12"/>
+      <ellipse class="cloud" style="--d:60s;--dl:-5s" cx="0" cy="175" rx="140" ry="7"/>
+    </g>
+
+    <path d="M0 310 C100 250 180 260 260 300 C340 220 430 250 520 300 C620 240 720 250 820 300 C900 250 1000 230 1080 290 C1130 260 1170 262 1200 280 V420 H0Z" fill="#8a1424" opacity="0.85"/>
+    <g fill="#240710">
+      <rect x="984" y="292" width="6" height="56"/>
+      <rect x="1014" y="292" width="6" height="56"/>
+      <path d="M974 290 Q1002 284 1030 290 V296 H974Z"/>
+      <rect x="983" y="302" width="38" height="4"/>
+    </g>
+    <path d="M0 340 C120 290 220 320 320 340 C440 300 560 310 680 345 C800 305 920 310 1040 345 C1100 330 1160 325 1200 335 V420 H0Z" fill="#4c0b17"/>
+    <path d="M0 380 C200 360 400 385 600 375 C800 365 1000 385 1200 372 V420 H0Z" fill="#1d040a"/>
+
+    <g>
+      <g class="grass" style="animation-delay:-.3s"><use href="#tuft" x="330" y="392"/></g>
+      <g class="grass" style="animation-delay:-1.1s"><use href="#tuft" x="520" y="388"/></g>
+      <g class="grass" style="animation-delay:-.7s"><use href="#tuft" x="700" y="390"/></g>
+      <g class="grass" style="animation-delay:-1.6s"><use href="#tuft" x="880" y="386"/></g>
+      <g class="grass" style="animation-delay:-.2s"><use href="#tuft" x="1060" y="390"/></g>
+      <g class="grass" style="animation-delay:-1.3s"><use href="#tuft" x="1150" y="384"/></g>
+    </g>
+
+    <g class="tree">
+      <g stroke="#1a050a" fill="none" stroke-linecap="round">
+        <path d="M112 430 C114 350 122 285 126 205" stroke-width="24"/>
+        <path d="M122 285 C96 255 80 232 58 200" stroke-width="11"/>
+        <path d="M125 250 C150 226 176 216 205 190" stroke-width="11"/>
+        <path d="M118 330 C150 310 178 300 205 276" stroke-width="9"/>
+      </g>
+      <g>
+        <circle cx="60" cy="195" r="62" fill="#6d0b19"/>
+        <circle cx="190" cy="205" r="56" fill="#6d0b19"/>
+        <circle cx="130" cy="235" r="56" fill="#6d0b19"/>
+        <circle cx="105" cy="148" r="72" fill="#92101f"/>
+        <circle cx="175" cy="122" r="62" fill="#92101f"/>
+        <circle cx="228" cy="165" r="48" fill="#92101f"/>
+        <circle cx="68" cy="108" r="46" fill="#92101f"/>
+        <circle cx="150" cy="100" r="44" fill="#c4182a"/>
+        <circle cx="205" cy="140" r="34" fill="#d92b2b"/>
+        <circle cx="95" cy="170" r="36" fill="#c4182a"/>
+        <circle cx="222" cy="150" r="22" fill="#ff6b4a" opacity="0.55"/>
+        <circle cx="170" cy="92" r="20" fill="#ff6b4a" opacity="0.45"/>
       </g>
     </g>
 
-    <!-- text -->
-    <text x="64" y="118" class="mono" font-size="15" letter-spacing="5" fill="#00f0ff" opacity="0.9">// MAKER · FIRMWARE TINKERER · HARDWARE HACKER</text>
-
-    <g class="sans" font-size="96" font-weight="800" letter-spacing="14">
-      <text x="64" y="212" fill="#ff2e88" class="glitchA">REDOAN</text>
-      <text x="64" y="212" fill="#00f0ff" class="glitchB">REDOAN</text>
-      <text x="64" y="212" fill="url(#ttl)" filter="url(#glow)">REDOAN</text>
+    <g fill="#ffd0a0">
+      <circle class="ember" style="--d:9s;--dl:-1s" cx="420" cy="390" r="2"/>
+      <circle class="ember" style="--d:12s;--dl:-6s" cx="640" cy="395" r="1.6"/>
+      <circle class="ember" style="--d:10s;--dl:-3s" cx="780" cy="392" r="2.2"/>
+      <circle class="ember" style="--d:13s;--dl:-9s" cx="260" cy="396" r="1.8"/>
+      <circle class="ember" style="--d:11s;--dl:-2s" cx="950" cy="394" r="1.5"/>
     </g>
 
-    <g class="mono" font-size="24" fill="#d6f9ff">
-      <text x="68" y="262" class="sub">&gt; Custom STM32 flight controllers</text>
-      <text x="68" y="262" class="sub s2">&gt; INAV drones · FPV · autonomous GPS</text>
-      <text x="68" y="262" class="sub s3">&gt; ESP32 · SDR · CNC · motherboard mods</text>
-      <text x="68" y="262" class="sub s4">&gt; Founder @ BELTA · DIY electronics, BD</text>
-      <rect class="blink" x="68" y="272" width="14" height="3" fill="#00f0ff"/>
+    <!-- handwritten name -->
+    <g transform="translate(270 70) rotate(-5) scale(1.38)" filter="url(#ink)">
+      <g stroke="#ff4d3d" stroke-width="15" opacity="0.35">
+        <path class="w" pathLength="1" style="--dl:0s" d="M30 152 C36 110 44 60 52 24"/>
+        <path class="w" pathLength="1" style="--dl:.5s" d="M46 28 C110 8 140 70 70 92 C95 96 105 130 130 150 C138 156 146 150 152 142"/>
+        <path class="w" pathLength="1" style="--dl:1s" d="M168 120 C200 122 222 108 208 94 C192 80 160 100 165 130 C169 154 205 156 228 134"/>
+        <path class="w" pathLength="1" style="--dl:1.5s" d="M302 100 C270 84 242 104 248 130 C254 154 292 150 300 122"/>
+        <path class="w" pathLength="1" style="--dl:1.8s" d="M314 16 C306 60 298 100 299 135 C300 152 318 150 334 132"/>
+        <path class="w" pathLength="1" style="--dl:2.3s" d="M356 100 C332 108 336 148 362 148 C390 148 396 108 366 98 C380 94 400 92 418 100"/>
+        <path class="w" pathLength="1" style="--dl:2.8s" d="M450 104 C425 92 408 120 418 140 C428 158 455 150 462 118 M462 100 C458 124 458 142 466 150 C474 156 484 146 490 138"/>
+        <path class="w" pathLength="1" style="--dl:3.4s" d="M505 100 C500 125 498 140 500 152 M502 120 C512 96 545 94 548 118 C550 135 548 146 552 152 C556 156 566 148 574 140"/>
+        <path class="w" pathLength="1" style="--dl:4s" d="M30 180 C200 194 400 168 585 182"/>
+      </g>
+      <g stroke="#fff3e6" stroke-width="8">
+        <path class="w" pathLength="1" style="--dl:0s" d="M30 152 C36 110 44 60 52 24"/>
+        <path class="w" pathLength="1" style="--dl:.5s" d="M46 28 C110 8 140 70 70 92 C95 96 105 130 130 150 C138 156 146 150 152 142"/>
+        <path class="w" pathLength="1" style="--dl:1s" d="M168 120 C200 122 222 108 208 94 C192 80 160 100 165 130 C169 154 205 156 228 134"/>
+        <path class="w" pathLength="1" style="--dl:1.5s" d="M302 100 C270 84 242 104 248 130 C254 154 292 150 300 122"/>
+        <path class="w" pathLength="1" style="--dl:1.8s" d="M314 16 C306 60 298 100 299 135 C300 152 318 150 334 132"/>
+        <path class="w" pathLength="1" style="--dl:2.3s" d="M356 100 C332 108 336 148 362 148 C390 148 396 108 366 98 C380 94 400 92 418 100"/>
+        <path class="w" pathLength="1" style="--dl:2.8s" d="M450 104 C425 92 408 120 418 140 C428 158 455 150 462 118 M462 100 C458 124 458 142 466 150 C474 156 484 146 490 138"/>
+        <path class="w" pathLength="1" style="--dl:3.4s" d="M505 100 C500 125 498 140 500 152 M502 120 C512 96 545 94 548 118 C550 135 548 146 552 152 C556 156 566 148 574 140"/>
+        <path class="w" pathLength="1" style="--dl:4s;stroke-width:5" d="M30 180 C200 194 400 168 585 182"/>
+      </g>
     </g>
 
-    <!-- telemetry bars -->
-    <g class="mono" font-size="12" fill="#7fb4c4" letter-spacing="2">
-      <text x="68" y="318">FIRMWARE</text><path class="bar" d="M170 314H340" stroke="#00f0ff" stroke-width="6" stroke-linecap="round"/>
-      <text x="68" y="342">HARDWARE</text><path class="bar bar2" d="M170 338H340" stroke="#9a8cff" stroke-width="6" stroke-linecap="round"/>
-      <text x="68" y="366">BUILD LOG</text><path class="bar bar3" d="M170 362H340" stroke="#ffb020" stroke-width="6" stroke-linecap="round"/>
+    <g stroke="#ffe3d0" stroke-width="1.6" fill="none" stroke-linecap="round">
+      <g class="wind" style="--d:4s;--dl:-1s;--wy:30px"><path d="M0 90 c40 -8 80 8 150 0"/></g>
+      <g class="wind" style="--d:5s;--dl:-3s;--wy:-20px"><path d="M0 160 c50 -10 100 10 190 0"/></g>
+      <g class="wind" style="--d:3.6s;--dl:-2s;--wy:40px"><path d="M0 230 c40 -8 90 8 160 0"/></g>
+      <g class="wind" style="--d:4.4s;--dl:-.5s;--wy:-30px"><path d="M0 300 c50 -10 100 10 200 0"/></g>
+      <g class="wind" style="--d:6s;--dl:-4s;--wy:20px"><path d="M0 125 c30 -6 70 6 120 0"/></g>
+      <g class="wind" style="--d:5.2s;--dl:-2.6s;--wy:-10px"><path d="M0 265 c30 -6 70 6 120 0"/></g>
     </g>
 
-    <!-- bottom status strip -->
-    <line class="dash" x1="0" y1="392" x2="1200" y2="392" stroke="#00f0ff" stroke-opacity="0.35"/>
-    <g class="mono" font-size="12" fill="#7fb4c4" letter-spacing="2">
-      <circle class="blink" cx="68" cy="408" r="4" fill="#38ff9c"/>
-      <text x="82" y="412">SYS.ONLINE</text>
-      <text x="230" y="412">FC: STM32F411</text>
-      <text x="400" y="412">FW: INAV 6.0</text>
-      <text x="560" y="412">IMU: MPU6050</text>
-      <text x="730" y="412">GPS: NEO-7M</text>
-      <text x="890" y="412">LINK: ELRS</text>
-      <text x="1030" y="412" class="pulse" fill="#ffb020">DHAKA · BD</text>
+    <g>
+      <g class="fly" style="--x0:170px;--y0:110px;--y1:240px;--d:9s;--dl:-1s"><g class="tum" style="--t:3.2s"><use href="#leaf" fill="#ff3b30" transform="scale(1.4)"/></g></g>
+      <g class="fly" style="--x0:200px;--y0:150px;--y1:330px;--d:11s;--dl:-4s"><g class="tum" style="--t:2.6s"><use href="#leaf" fill="#ff7a45" transform="scale(1.2)"/></g></g>
+      <g class="fly" style="--x0:140px;--y0:90px;--y1:170px;--d:13s;--dl:-8s"><g class="tum" style="--t:3.8s"><use href="#leaf" fill="#d62828" transform="scale(1.6)"/></g></g>
+      <g class="fly" style="--x0:210px;--y0:190px;--y1:300px;--d:10s;--dl:-6s"><g class="tum" style="--t:2.9s"><use href="#leaf" fill="#ffb199"/></g></g>
+      <g class="fly" style="--x0:180px;--y0:130px;--y1:210px;--d:12s;--dl:-10s"><g class="tum" style="--t:3.4s"><use href="#leaf" fill="#ff3b30" transform="scale(1.3)"/></g></g>
+      <g class="fly" style="--x0:160px;--y0:210px;--y1:360px;--d:14s;--dl:-2s"><g class="tum" style="--t:4s"><use href="#leaf" fill="#c1121f" transform="scale(1.5)"/></g></g>
+      <g class="fly" style="--x0:220px;--y0:100px;--y1:150px;--d:8.5s;--dl:-5s"><g class="tum" style="--t:2.4s"><use href="#leaf" fill="#ff7a45" transform="scale(1.1)"/></g></g>
+      <g class="fly" style="--x0:150px;--y0:170px;--y1:260px;--d:10.5s;--dl:-7s"><g class="tum" style="--t:3.1s"><use href="#leaf" fill="#ffd0a0" transform="scale(0.9)"/></g></g>
+      <g class="fly" style="--x0:190px;--y0:120px;--y1:190px;--d:12.5s;--dl:-11s"><g class="tum" style="--t:3.6s"><use href="#leaf" fill="#e63946" transform="scale(1.3)"/></g></g>
+      <g class="fly" style="--x0:170px;--y0:230px;--y1:340px;--d:9.5s;--dl:-3s"><g class="tum" style="--t:2.7s"><use href="#leaf" fill="#ff5a45" transform="scale(1.2)"/></g></g>
+      <g filter="url(#soft)" opacity="0.8">
+        <g class="fly" style="--x0:120px;--y0:140px;--y1:320px;--d:6.5s;--dl:-2s"><g class="tum" style="--t:2.2s"><use href="#leaf" fill="#ff3b30" transform="scale(2.8)"/></g></g>
+        <g class="fly" style="--x0:200px;--y0:80px;--y1:250px;--d:7.5s;--dl:-5s"><g class="tum" style="--t:2.5s"><use href="#leaf" fill="#c1121f" transform="scale(3.2)"/></g></g>
+      </g>
     </g>
 
-    <!-- corner brackets -->
-    <g stroke="#00f0ff" stroke-width="2" fill="none" opacity="0.8">
-      <path d="M14 44V14H44M1156 14H1186V44M14 376V406H44M1156 406H1186V376"/>
-    </g>
+    <rect width="1200" height="420" fill="url(#vig)"/>
   </g>
-  <rect x="0.5" y="0.5" width="1199" height="419" rx="14" fill="none" stroke="#00f0ff" stroke-opacity="0.3"/>
+  <rect x="0.5" y="0.5" width="1199" height="419" rx="14" fill="none" stroke="#ff7a52" stroke-opacity="0.25"/>
 </svg>
