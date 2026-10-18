@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  Class 11 student. I like Arduino, STM32 and building stuff.
+  <i>I'm not an engineer or a developer. Just a high school student with a soldering iron and too many ideas.<br>
+  My love for STM32, Arduino and DIY keeps me building, breaking and learning, one project at a time.</i>
 </p>
 
 <p align="center">
