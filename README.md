@@ -1,16 +1,21 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.svg" width="100%">
+</p>
 
-<!--
-**redoan2010/redoan2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey, I'm Redoan 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&width=500&lines=Building+weird+things+with+code;STM32+%2B+INAV+drone+builder;Probably+overthinking+your+problem" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I build
+- 🚁 Custom STM32 + INAV autonomous drone
+- 📈 Crypto analysis dashboard (Python)
+
+### 🛠 Tech
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+
+### 📊 Stats
+![stats](https://github-readme-stats.vercel.app/api?username=redoan2010&theme=tokyonight&hide_border=true)
